@@ -7,7 +7,7 @@ public class MainWindow extends JFrame{
 	public MainWindow(){
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setTitle("J4Stock");
-		this.setSize(1000, 650);
+		this.setSize(1000, 700);
 		this.setLocationRelativeTo(null);
 		
 		UpperMenu menu = new UpperMenu();
